@@ -1,0 +1,9 @@
+.about-image {
+  width: 300px;
+}
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+}
